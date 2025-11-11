@@ -38,7 +38,7 @@ But, since this *is* open source, you can customize the INO to work with your IR
 ## 📦 Files
 
 - `Softwarez/BuniBuni.ino` — Arduino sketch. (Sketch)[Softwarez/bunibuni.ino]
-- `Softwarez/Dependencies.txt` — The libraries you'll need (note: this is Arduino, not Python, so you can't just arduinonano install Dependencies.txt)! (Dependencies)[Softwarez/Dependencies.txt]
+- `Softwarez/Dependencies.txt` — The libraries you'll need (note: this is Arduino, not Python, so you can't just arduinonano install Dependencies.txt)! [Dependencies](https://github.com/jhfhngj/BuniBuni/blob/Mainly-Main/Softwarez/Dependencies.txt)
 - `Body/parts_list.xlsx` — Components and links. (List)[Body/parts_list.xlsx]
 - `Body/body_design_notes.md` — Useful design notes and printing tips! (Body design notes)[Body/body_design_notes.md]
 
