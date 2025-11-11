@@ -46,7 +46,7 @@ But, since this *is* open source, you can customize the INO to work with your IR
 
 Watch BuniBuni hop and stretch on (Not available yet).
 
-## 🧪 Build Philosophy
+## 🧪 Build Talk
 
 > “No ears, no tail — just hop and be cool.”
 
