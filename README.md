@@ -8,8 +8,8 @@ BuniBuni is a minimalist, expressive robot rabbit built with an Arduino Nano, MG
 - **Turns** left and right with tank-steering-like leg motion
 - **Stretches** dramatically (and painfully)
 - **IR Remote Controlled** for wireless command input
-- **Lightweight chassis** with recommended 20% PLA infill
-- **Oval legs with optional rubber feet** for grip and style
+- You get your own **Lightweight chassis** with recommended 20% PLA infill
+- **Optional rubber feet** so BuniBuni doesn't headbutt you
 
 ## 🧠 Tech Specs
 
