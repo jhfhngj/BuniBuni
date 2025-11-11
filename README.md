@@ -33,18 +33,18 @@ Each motion is triggered by an IR remote command:
 | `0x90`  | Turn Right|
 | `0xA8`  | Stretch   |
 
-Servos are mounted at each corner of the chassis and control the legs directly. The body is hollow, and electronics are placed “tupperware-style” — no cable management, just vibes.
+But, since this *is* open source, you can customize the INO to work with your IR remote!
 
 ## 📦 Files
 
-- `BuniBuni.ino` — Arduino sketch
-- `images/` — Rendered chassis and build photos
-- `parts_list.md` — Components and links
-- `body_design_notes.md` — Chassis layout and printing tips
+- `Softwarez/BuniBuni.ino` — Arduino sketch
+- `Softwarez/Dependencies.txt` — The libraries you'll need (note: this is Arduino, not Python, so you can't just arduinonano install Dependencies.txt)
+- `Body/parts_list.xlsx` — Components and links
+- `Body/body_design_notes.md` — Chassis layout and printing tips
 
 ## 📹 Demo
 
-Watch BuniBuni hop and stretch on [YouTube](Not available yet).
+Watch BuniBuni hop and stretch on (Not available yet).
 
 ## 🧪 Build Philosophy
 
@@ -54,9 +54,9 @@ BuniBuni is designed to be light enough to jump, expressive enough to feel alive
 
 ## 💵 Price
 
-With a cheaper battery, BuniBuni can float around **$55 CAD**.
+With cheaper everything, BuniBuni can float around **$60 CAD** in the pool.
 
-With higher-quality parts, filament, and a proper 5V 4A battery, BuniBuni lands closer to **$81 CAD**.
+With higher-quality parts, filament, and a proper 5V 4A battery, BuniBuni lands closer to **$90 CAD**.
 
 > “Why so expensive?”
 
