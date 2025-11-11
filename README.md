@@ -60,7 +60,7 @@ With higher-quality parts, filament, and a proper 5V 4A battery, BuniBuni lands 
 
 > “Why so expensive?”
 
-Simple: the battery is high-amp (4A) to support MG90S servos. MG90S costs around $7 each — pricey, but worth it. Why? Metal gears. More torque. More durability.
+Simple: the battery (since it is beta, I am testing it with only PSU) is high-amp (4A) to support MG90S servos. MG90S costs around $7 each — pricey, but worth it. Why? Metal gears. More torque. More durability.
 
 I chose MG90S because they’re strong enough for hopping. And the 5V 4A battery? Because with great power comes great responsibility (Spider-Man reference). MG90S can draw **500mA to 1A each**, so you need serious current to keep BuniBuni bouncing.
 
