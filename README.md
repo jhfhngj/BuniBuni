@@ -19,8 +19,8 @@ BuniBuni is a minimalist, expressive robot rabbit built with an Arduino Nano, MG
 | Servos           | 4× MG90S (metal gear)                        |
 | Power            | 5V 4A battery or USB power bank              |
 | Control          | IR receiver + remote                         |
-| Body             | PLA, hollow rectangle, floating servo mounts |
-| Legs             | Oval-shaped, lightweight                     |
+| Body             | You find it                                  |
+| Legs             | You find them                                |
 
 ## 🛠️ How It Works
 
